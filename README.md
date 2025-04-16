@@ -24,6 +24,11 @@
 
 ---
 
+## 📊 **Estatísticas**  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=chspDEV&show_icons=true&theme=dark)
+
+---
+
 ## 📚 **Formação Acadêmica**
 - **Tecnólogo em Jogos Digitais** (2023 - Atual)  
   `IFRJ - Campus Eng. Paulo de Frontin`
@@ -81,6 +86,7 @@
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE3OTAxNDcwLnBuZw==/315x250%23c/kB4bG1.png" width="200" alt="Projeto Período III">
   </div>
+    
   - Game Designer <br>
   - Programador de Interfaces <br>
   - Conexão Multiplayer e Sistemas
@@ -110,13 +116,10 @@
 ---
 
 ## 🌐 **Idiomas**
-| Idioma        | Nível         |
-|---------------|---------------|
-| Português     | Nativo 🇧🇷     |
-| Inglês        | Intermediário 🇺🇸 |
-| Japonês       | Básico 🇯🇵      |
+| Idioma        | Nível           |
+|---------------|---------------  |
+| Português     | Nativo          |
+| Inglês        | Intermediário   |
+| Japonês       | Básico          |
 
 ---
-
-## 📊 **GitHub Stats**  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=chspDEV&show_icons=true&theme=dark)
