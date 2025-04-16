@@ -22,10 +22,6 @@
 ![Game Design](https://img.shields.io/badge/Game_Design-FF6B6B)
 ![Sound Design](https://img.shields.io/badge/Sound_Design-8B4513)
 
-### 🎨 **Multimídia**
-![Adobe Premiere](https://img.shields.io/badge/-Premiere-9999FF?logo=adobe-premiere-pro)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop)
-
 ---
 
 ## 📚 **Formação Acadêmica**
@@ -74,6 +70,7 @@
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE0MzA5NzMxLnBuZw==/315x250%23c/GZnSp9.png" width="200" alt="Projeto Período II">
   </div>
+    
   - Programador Geral
 </div>
 
@@ -84,8 +81,8 @@
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE3OTAxNDcwLnBuZw==/315x250%23c/kB4bG1.png" width="200" alt="Projeto Período III">
   </div>
-  - Game Designer
-  - Programador de Interfaces
+  - Game Designer <br>
+  - Programador de Interfaces <br>
   - Conexão Multiplayer e Sistemas
 </div>
 
@@ -96,7 +93,7 @@
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzIwMDY3MTU2LnBuZw==/315x250%23c/G1X6F8.png" width="200" alt="Projeto Período IV">
   </div>
-  - Game Designer
+  - Game Designer <br>
   - Programador Geral
 </div>
 
