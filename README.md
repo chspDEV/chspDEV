@@ -40,27 +40,33 @@
 ## 💼 **Experiência Profissional**
 ### 🕹️ **Programador Assistente**  
 `Game Jam IPChallenge (SEBRAE/INPI) | 2023`
+![Imagem do Jogo](https://img.itch.zone/aW1nLzE1OTU3MjA5LnBuZw==/315x250%23c/tnsm%2FE.png)
 - Desenvolvimento de sistemas de menu interativos
 - Otimização de lógica de gameplay
 - Controle de Qualidade
 
 ## 💼 **Experiência Acadêmica**
 `Projeto de Conclusão de Período I`
+![Imagem do Jogo](https://img.itch.zone/aW1nLzE4MTQxNDIyLmpwZw==/315x250%23c/pDCKBZ.jpg)
 - Programador Geral
 - Sound Designer
 
 `Projeto de Conclusão de Período II`
+![Imagem do Jogo](https://img.itch.zone/aW1nLzE0MzA5NzMxLnBuZw==/315x250%23c/GZnSp9.png)
 - Programador Geral
 
 `Projeto de Conclusão de Período III`
+![Imagem do Jogo](https://img.itch.zone/aW1nLzE3OTAxNDcwLnBuZw==/315x250%23c/kB4bG1.png)
 - Game Designer
 - Programador de Interfaces, Conexão Multiplayer e Sistemas.
 
 `Projeto de Conclusão de Período IV`
+![Imagem do Jogo](https://img.itch.zone/aW1nLzIwMDY3MTU2LnBuZw==/315x250%23c/G1X6F8.png)
 - Game Designer
 - Programador Geral
 
 `Projeto de Gestão do 1 Período`
+![Imagem do Jogo](https://img.itch.zone/aW1nLzE5NzM1MTQzLnBuZw==/315x250%23c/RGYRcN.png)
 - Gestor
 
 ---
@@ -75,4 +81,4 @@
 ---
 
 **GitHub Stats**:  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=chspDEV&show_icons=true&theme=dark)
