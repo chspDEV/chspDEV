@@ -99,6 +99,7 @@
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzIwMDY3MTU2LnBuZw==/315x250%23c/G1X6F8.png" width="200" alt="Projeto Período IV">
   </div>
+    
   - Game Designer <br>
   - Programador Geral
 </div>
@@ -110,6 +111,7 @@
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE5NzM1MTQzLnBuZw==/315x250%23c/RGYRcN.png" width="200" alt="Projeto Gestão">
   </div>
+    
   - Gestor
 </div>
 
