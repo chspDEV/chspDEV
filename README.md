@@ -38,13 +38,15 @@
 ---
 
 ## 💼 **Experiência Profissional**
-<div style="overflow: auto; margin-bottom: 30px;">
-  <div style="float: right; margin-left: 20px;">
-    <img src="https://img.itch.zone/aW1nLzE1OTU3MjA5LnBuZw==/315x250%23c/tnsm%2FE.png" width="200" alt="Jogo IPChallenge">
-  </div>
   
   ### 🕹️ **Programador Assistente**  
   `Game Jam IPChallenge (SEBRAE/INPI) | 2023`
+
+  <div style="overflow: auto; margin-bottom: 30px;">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://img.itch.zone/aW1nLzE1OTU3MjA5LnBuZw==/315x250%23c/tnsm%2FE.png" width="200" alt="Jogo IPChallenge">
+  </div>
+    
   - Desenvolvimento de sistemas de menu interativos
   - Otimização de lógica de gameplay
   - Controle de Qualidade
@@ -53,52 +55,58 @@
 ---
 
 ## 🎓 **Experiência Acadêmica**
-<div style="overflow: auto; margin-bottom: 30px;">
+
+  
+  ### 📘 **Projeto de Conclusão de Período I**  
+  <div style="overflow: auto; margin-bottom: 30px;">
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE4MTQxNDIyLmpwZw==/315x250%23c/pDCKBZ.jpg" width="200" alt="Projeto Período I">
   </div>
-  
-  ### 📘 **Projeto de Conclusão de Período I**  
+    
   - Programador Geral
   - Sound Designer
 </div>
 
-<div style="overflow: auto; margin-bottom: 30px;">
+
+  
+  ### 📘 **Projeto de Conclusão de Período II**  
+  <div style="overflow: auto; margin-bottom: 30px;">
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE0MzA5NzMxLnBuZw==/315x250%23c/GZnSp9.png" width="200" alt="Projeto Período II">
   </div>
-  
-  ### 📘 **Projeto de Conclusão de Período II**  
   - Programador Geral
 </div>
 
-<div style="overflow: auto; margin-bottom: 30px;">
+
+  
+  ### 📘 **Projeto de Conclusão de Período III**
+  <div style="overflow: auto; margin-bottom: 30px;">
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE3OTAxNDcwLnBuZw==/315x250%23c/kB4bG1.png" width="200" alt="Projeto Período III">
   </div>
-  
-  ### 📘 **Projeto de Conclusão de Período III**  
   - Game Designer
   - Programador de Interfaces
   - Conexão Multiplayer e Sistemas
 </div>
 
-<div style="overflow: auto; margin-bottom: 30px;">
+
+  
+  ### 📘 **Projeto de Conclusão de Período IV**  
+  <div style="overflow: auto; margin-bottom: 30px;">
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzIwMDY3MTU2LnBuZw==/315x250%23c/G1X6F8.png" width="200" alt="Projeto Período IV">
   </div>
-  
-  ### 📘 **Projeto de Conclusão de Período IV**  
   - Game Designer
   - Programador Geral
 </div>
 
-<div style="overflow: auto; margin-bottom: 30px;">
+
+  
+  ### 📘 **Projeto de Gestão do 1º Período**  
+  <div style="overflow: auto; margin-bottom: 30px;">
   <div style="float: right; margin-left: 20px;">
     <img src="https://img.itch.zone/aW1nLzE5NzM1MTQzLnBuZw==/315x250%23c/RGYRcN.png" width="200" alt="Projeto Gestão">
   </div>
-  
-  ### 📘 **Projeto de Gestão do 1º Período**  
   - Gestor
 </div>
 
