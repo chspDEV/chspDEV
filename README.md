@@ -38,36 +38,69 @@
 ---
 
 ## 💼 **Experiência Profissional**
-### 🕹️ **Programador Assistente**  
-`Game Jam IPChallenge (SEBRAE/INPI) | 2023`
-![Imagem do Jogo](https://img.itch.zone/aW1nLzE1OTU3MjA5LnBuZw==/315x250%23c/tnsm%2FE.png)
-- Desenvolvimento de sistemas de menu interativos
-- Otimização de lógica de gameplay
-- Controle de Qualidade
+<div style="overflow: auto; margin-bottom: 30px;">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://img.itch.zone/aW1nLzE1OTU3MjA5LnBuZw==/315x250%23c/tnsm%2FE.png" width="200" alt="Jogo IPChallenge">
+  </div>
+  
+  ### 🕹️ **Programador Assistente**  
+  `Game Jam IPChallenge (SEBRAE/INPI) | 2023`
+  - Desenvolvimento de sistemas de menu interativos
+  - Otimização de lógica de gameplay
+  - Controle de Qualidade
+</div>
 
-## 💼 **Experiência Acadêmica**
-`Projeto de Conclusão de Período I`
-![Imagem do Jogo](https://img.itch.zone/aW1nLzE4MTQxNDIyLmpwZw==/315x250%23c/pDCKBZ.jpg)
-- Programador Geral
-- Sound Designer
+---
 
-`Projeto de Conclusão de Período II`
-![Imagem do Jogo](https://img.itch.zone/aW1nLzE0MzA5NzMxLnBuZw==/315x250%23c/GZnSp9.png)
-- Programador Geral
+## 🎓 **Experiência Acadêmica**
+<div style="overflow: auto; margin-bottom: 30px;">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://img.itch.zone/aW1nLzE4MTQxNDIyLmpwZw==/315x250%23c/pDCKBZ.jpg" width="200" alt="Projeto Período I">
+  </div>
+  
+  ### 📘 **Projeto de Conclusão de Período I**  
+  - Programador Geral
+  - Sound Designer
+</div>
 
-`Projeto de Conclusão de Período III`
-![Imagem do Jogo](https://img.itch.zone/aW1nLzE3OTAxNDcwLnBuZw==/315x250%23c/kB4bG1.png)
-- Game Designer
-- Programador de Interfaces, Conexão Multiplayer e Sistemas.
+<div style="overflow: auto; margin-bottom: 30px;">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://img.itch.zone/aW1nLzE0MzA5NzMxLnBuZw==/315x250%23c/GZnSp9.png" width="200" alt="Projeto Período II">
+  </div>
+  
+  ### 📘 **Projeto de Conclusão de Período II**  
+  - Programador Geral
+</div>
 
-`Projeto de Conclusão de Período IV`
-![Imagem do Jogo](https://img.itch.zone/aW1nLzIwMDY3MTU2LnBuZw==/315x250%23c/G1X6F8.png)
-- Game Designer
-- Programador Geral
+<div style="overflow: auto; margin-bottom: 30px;">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://img.itch.zone/aW1nLzE3OTAxNDcwLnBuZw==/315x250%23c/kB4bG1.png" width="200" alt="Projeto Período III">
+  </div>
+  
+  ### 📘 **Projeto de Conclusão de Período III**  
+  - Game Designer
+  - Programador de Interfaces
+  - Conexão Multiplayer e Sistemas
+</div>
 
-`Projeto de Gestão do 1 Período`
-![Imagem do Jogo](https://img.itch.zone/aW1nLzE5NzM1MTQzLnBuZw==/315x250%23c/RGYRcN.png)
-- Gestor
+<div style="overflow: auto; margin-bottom: 30px;">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://img.itch.zone/aW1nLzIwMDY3MTU2LnBuZw==/315x250%23c/G1X6F8.png" width="200" alt="Projeto Período IV">
+  </div>
+  
+  ### 📘 **Projeto de Conclusão de Período IV**  
+  - Game Designer
+  - Programador Geral
+</div>
+
+<div style="overflow: auto; margin-bottom: 30px;">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://img.itch.zone/aW1nLzE5NzM1MTQzLnBuZw==/315x250%23c/RGYRcN.png" width="200" alt="Projeto Gestão">
+  </div>
+  
+  ### 📘 **Projeto de Gestão do 1º Período**  
+  - Gestor
+</div>
 
 ---
 
@@ -80,5 +113,5 @@
 
 ---
 
-**GitHub Stats**:  
+## 📊 **GitHub Stats**  
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=chspDEV&show_icons=true&theme=dark)
