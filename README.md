@@ -14,7 +14,7 @@ Aqui estão algumas das principais ferramentas e tecnologias que utilizo no meu 
   <img src="https://img.shields.io/badge/Visual_Studio-2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2022" />
 </p>
 
-**Outras Ferramentas e Frameworks Legados:**
+**Outras Ferramentas:**
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-2010-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2010" />
   <img src="https://img.shields.io/badge/XNA_Framework-4.0-6A4B9C?style=for-the-badge" alt="XNA Framework" />
