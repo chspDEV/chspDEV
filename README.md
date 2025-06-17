@@ -14,7 +14,7 @@ Aqui estão algumas das principais ferramentas e tecnologias que utilizo no meu 
   <img src="https://img.shields.io/badge/Visual_Studio-2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2022" />
 </p>
 
-**Outras Ferramentas:**
+**Outras Ferramentas e Frameworks Legados:**
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-2010-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2010" />
   <img src="https://img.shields.io/badge/XNA_Framework-4.0-6A4B9C?style=for-the-badge" alt="XNA Framework" />
@@ -38,7 +38,7 @@ Aqui estão algumas das principais ferramentas e tecnologias que utilizo no meu 
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=chspDEV&theme=dark&hide_border=false"
+        src="https://streak-stats.demolab.com/?user=chspDEV&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -46,6 +46,22 @@ Aqui estão algumas das principais ferramentas e tecnologias que utilizo no meu 
 </table>
 
 --- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=chspDEV&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
